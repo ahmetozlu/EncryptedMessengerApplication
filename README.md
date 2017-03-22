@@ -15,4 +15,4 @@ This project focuses the sending-receiving message (over TCP Socket) with high s
 
 7.) Client decrypts this message (from Server) with its AES symmetric key.  
 
-And this loop can continue until TCP Socket is terminated by Server or Client user so  very high secure messanger application can be implemented on Java by this way. The 3rd party users can not reach your message, no way! Thanks to AES and RSA so much!!! :-)
+And this loop can continue until TCP Socket is terminated by Server or Client user so  very high secure messanger application can be implemented on Java by this way. The 3rd party users can not reach your message, no way! Thanks to RSA and AES so much!!! :-)
