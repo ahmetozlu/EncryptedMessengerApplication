@@ -7,7 +7,7 @@ This project focuses the sending-receiving message (over TCP Socket) with high s
 
 3.) Client gets the public key of Server now. Client generate asymmetric key (symmetric key will be used for AES encrytion) which are encrypted by RSA public key and this encrypted message will be sent to Server.  
 
-4.) Server is got the symeetric key now.  
+4.) Server is got the symmetric key now.  
 
 5.) Server decrypts this message with its private key and Server reaches the symetric key.  
 
