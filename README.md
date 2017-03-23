@@ -9,7 +9,7 @@ This project focuses the sending-receiving message (over TCP Socket) with high s
 
 4.) Server is got the symmetric key now.  
 
-5.) Server decrypts this message with its private key and Server reaches the symetric key.  
+5.) Server decrypts this message with its private key and Server reaches the symmetric key.  
 
 6.) Now, Server can encrypt the messages by using this AES symmetric key and after that encryption, it sends this message over TCP Socket to Client.  
 
